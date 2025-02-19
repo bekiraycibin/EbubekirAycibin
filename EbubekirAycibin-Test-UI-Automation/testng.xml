@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Insider Careers Test Suite">
+    <test name="TestInsiderCareersTests">
+        <parameter name="browser" value="chrome" /> <!-- "chrome ya da "firefox" olarak değiştirebilirsiniz -->
+        <classes>
+            <class name="Tests.TestInsiderCareers"/>
+        </classes>
+    </test>
+</suite>
