@@ -1,4 +1,4 @@
-### You should tests details in files. 
+### You can see the details in the files.
 
 ▶️ [UI Automation Test](https://github.com/bekiraycibin/EbubekirAycibin/tree/main/EbubekirAycibin-Test-UI-Automation)
 
