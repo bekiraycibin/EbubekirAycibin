@@ -1,6 +1,6 @@
- __This is a API automation testing that writing with Rest Assured tool.__
+## __This is a API automation test that writing with Rest Assured tool.__
 
- __Wrote API tests using "pet" endpoints from https://petstore.swagger.io/.__
+## __Wrote API tests using "pet" endpoints from https://petstore.swagger.io/.__
 
 <br>
 
