@@ -1,4 +1,4 @@
-## __This is a API automation test that writing with Rest Assured tool.__
+## This is a API automation test that writing with Rest Assured tool.
 
 ## __Wrote API tests using "pet" endpoints from https://petstore.swagger.io/.__
 
