@@ -9,7 +9,7 @@
 - Java
 - Rest Assured
 - TestNg
-## Running The Tests
+## Running The Tests 
 
 - Clone the project and open Test Automation-API project in EbubekirAycibin file :
 
