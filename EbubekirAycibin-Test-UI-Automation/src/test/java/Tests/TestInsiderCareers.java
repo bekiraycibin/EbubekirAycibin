@@ -60,16 +60,16 @@ public class TestInsiderCareers {
 
     }
 
-//    @Test
-//    public void testRedirectToLeverApplication() throws InterruptedException {
-//        jobListingsPage.goToQualityAssurancePage();
-//        jobListingsPage.clickSeeAllQAJobs();
-//        jobListingsPage.selectLocation();
-//            jobListingsPage.isJobListDisplayed();
-//            leverApplicationPage.redirectToLeverApplicationForm();
-//            leverApplicationPage.checkURLToRedirectToLeverApplicationForm();
-//
-//    }
+    @Test
+    public void testRedirectToLeverApplication() throws InterruptedException {
+        jobListingsPage.goToQualityAssurancePage();
+        jobListingsPage.clickSeeAllQAJobs();
+        jobListingsPage.selectLocation();
+            jobListingsPage.isJobListDisplayed();
+            leverApplicationPage.redirectToLeverApplicationForm();
+            leverApplicationPage.checkURLToRedirectToLeverApplicationForm();
+
+    }
 
     @AfterMethod
     public void tearDown(ITestResult result) {
